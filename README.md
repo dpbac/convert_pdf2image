@@ -1,4 +1,4 @@
-# pdf2image
+# Convert_pdf2image
 
 The code presented here convert multiple PDF files in images and is based on the Python module [pdf2image](https://pypi.org/project/pdf2image/).
 It includes a mechanism to deal with PDF files that ask for pasword so all other PDF files are converted and the one that requires password are listed in a .txt file.
@@ -23,6 +23,10 @@ https://www.formerchef.com/wp-content/uploads/2010/07/Ratatouille.pdf
 
 https://www.cdc.gov/coronavirus/2019-ncov/downloads/2019-ncov-factsheet.pdf
 
+## Install requirements
+* Install requirements using `pip install -r requirements.txt`.
+  * Make sure you use Python 3.
+  * You may want to use a virtual environment for this.
 
 
 
