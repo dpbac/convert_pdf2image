@@ -9,8 +9,20 @@ The same code is presented in a script, [pdfs_to_image.py](https://github.com/dp
 
 To use the script use the command line in the folder where is and type:
 
-python pdfs_to_image.py -p _"path to folder where PDF files are"_ -i _"path to folder where to save generated images"_ -d resolution in dpi -f _"name of the file that will keep the name of PDF files that were not converted because required password"_ 
+python pdfs_to_image.py [-h] -p PDFS_FOLDER -i IMAGE_PATH -d DPI
 
-Example:
+**Example:**
 
 `python pdfs_to_image.py -p "./data/pdf/" -i "./data/img/" -d 300 -f "pdfs_require_password"`
+
+PDF files used here were downloaded from:
+
+https://www.bu.edu/geneva/files/2010/08/Easy_recipes.pdf
+
+https://www.formerchef.com/wp-content/uploads/2010/07/Ratatouille.pdf
+
+https://www.cdc.gov/coronavirus/2019-ncov/downloads/2019-ncov-factsheet.pdf
+
+
+
+
