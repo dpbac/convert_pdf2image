@@ -23,6 +23,8 @@ https://www.formerchef.com/wp-content/uploads/2010/07/Ratatouille.pdf
 
 https://www.cdc.gov/coronavirus/2019-ncov/downloads/2019-ncov-factsheet.pdf
 
+`Just a text.pdf` was created to show what happens when a PDF requires a password.
+
 ## Install requirements
 * Install requirements using `pip install -r requirements.txt`.
   * Make sure you use Python 3.
