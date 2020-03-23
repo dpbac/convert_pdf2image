@@ -17,4 +17,10 @@ python pdfs_to_image.py [-h] -p PDFS_FOLDER -i IMAGE_PATH -d DPI
 
 PDF files used here were downloaded from:
 
+https://www.bu.edu/geneva/files/2010/08/Easy_recipes.pdf
+https://www.formerchef.com/wp-content/uploads/2010/07/Ratatouille.pdf
+https://www.cdc.gov/coronavirus/2019-ncov/downloads/2019-ncov-factsheet.pdf
+
+
+
 
